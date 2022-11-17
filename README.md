@@ -1,8 +1,8 @@
-# Criar o Robotron 2000
+# Create a robot
 
-Projeto da Alura 2 - Javascript: Manipulando o DOM.
+Alura's 2nd project - Javascript: manipulating the DOM.
 
 
-Acesse aqui:
+See here:
 
 https://htmlpreview.github.io/?https://github.com/lauraperroni/Criar-Robotron-2000/blob/main/index.html
